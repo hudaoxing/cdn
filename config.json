@@ -1,0 +1,9 @@
+{
+  "name": "config info",
+  "data": [
+    {
+      "path": "pianyit",
+      "config": "root.json"
+    }
+  ]
+}
